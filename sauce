@@ -44,15 +44,6 @@ sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1b
 sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2b
 <&>
 >file
-sudo su -_Calipa
-(*^>
-(*^> 
-sudo get upgrade
-"I updated the system installer to be modular" -b
-git clone https://github.com/jellybabypsi/System7.1
-"just in case you forgot something!" -b
-  -- Brenton
-
 
 be well, my courageous love,
 good afternoon, good evening and good night!
